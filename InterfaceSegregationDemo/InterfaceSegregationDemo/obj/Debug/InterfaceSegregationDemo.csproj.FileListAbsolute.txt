@@ -1,0 +1,7 @@
+D:\CPTS 321\InterfaceSegregationDemo\InterfaceSegregationDemo\bin\Debug\InterfaceSegregationDemo.exe.config
+D:\CPTS 321\InterfaceSegregationDemo\InterfaceSegregationDemo\bin\Debug\InterfaceSegregationDemo.exe
+D:\CPTS 321\InterfaceSegregationDemo\InterfaceSegregationDemo\bin\Debug\InterfaceSegregationDemo.pdb
+D:\CPTS 321\InterfaceSegregationDemo\InterfaceSegregationDemo\obj\Debug\InterfaceSegregationDemo.csprojAssemblyReference.cache
+D:\CPTS 321\InterfaceSegregationDemo\InterfaceSegregationDemo\obj\Debug\InterfaceSegregationDemo.csproj.CoreCompileInputs.cache
+D:\CPTS 321\InterfaceSegregationDemo\InterfaceSegregationDemo\obj\Debug\InterfaceSegregationDemo.exe
+D:\CPTS 321\InterfaceSegregationDemo\InterfaceSegregationDemo\obj\Debug\InterfaceSegregationDemo.pdb
